@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: a2d9c034c2a6c9142923fcf1f98bd66f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3905868909477611595
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_0
+  - first:
+      213: -2085176411884303935
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_1
+  - first:
+      213: -6484258569089549946
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_2
+  - first:
+      213: 2140537831438643482
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_3
+  - first:
+      213: 257654512770304283
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_4
+  - first:
+      213: -5007358538955366951
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_5
+  - first:
+      213: -1507202936454074313
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_6
+  - first:
+      213: -3433910217097499708
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_7
+  - first:
+      213: -2534161368476230075
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_8
+  - first:
+      213: 1427895290318223805
+    second: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_0
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 144
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d96f6b1e5191c48901d4981e8aa393
+      internalID: -3905868909477611595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 142
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828e53b57b14d3b4594838ef2ec09943
+      internalID: -2085176411884303935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 191
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155bfaa0c24c8b04687d8b859a7fda86
+      internalID: -6484258569089549946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 192
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2e26d296e6f74439ca80d50d9598e6
+      internalID: 2140537831438643482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 192
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68009ed31b2993c498328be0aa02e4da
+      internalID: 257654512770304283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 756
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5576522f0b0d84398cbdbfb168c6a6
+      internalID: -5007358538955366951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 555
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37dcac372afc3c4793c807e6b9d7ac4
+      internalID: -1507202936454074313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 713
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b57ba5dc0ce046a7816ba55870d8d
+      internalID: -3433910217097499708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 341
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bfa7d96dca29d45b61556378a5d2c6
+      internalID: -2534161368476230075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 418-4180803_comments-pixel-art-ground-tiles-hd-png-download_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 685
+        width: 113
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e5981b59dd19b42870741235e2d0a7
+      internalID: 1427895290318223805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
